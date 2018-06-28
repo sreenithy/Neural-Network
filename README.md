@@ -10,3 +10,4 @@ Implement the following  from scratch:
 
 Then create a network with the implemented layers, and test the implemented network on a subset
 of the CIFAR100 dataset
+x\_i , w i , and b i
